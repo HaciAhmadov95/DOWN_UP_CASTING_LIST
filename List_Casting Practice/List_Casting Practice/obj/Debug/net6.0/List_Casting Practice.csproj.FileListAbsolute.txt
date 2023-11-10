@@ -1,0 +1,14 @@
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\bin\Debug\net6.0\List_Casting Practice.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\bin\Debug\net6.0\List_Casting Practice.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\bin\Debug\net6.0\List_Casting Practice.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\bin\Debug\net6.0\List_Casting Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\bin\Debug\net6.0\List_Casting Practice.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\refint\List_Casting Practice.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\List_Casting Practice.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\List_Casting\List_Casting Practice\List_Casting Practice\obj\Debug\net6.0\ref\List_Casting Practice.dll
